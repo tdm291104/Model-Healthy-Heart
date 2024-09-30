@@ -29,4 +29,4 @@
 ## **Kết quả đạt được của model**
 
 ![alt text](image.png)
-![alt text](image-1.png)
+![alt text](ConfusionMatrix.png)
